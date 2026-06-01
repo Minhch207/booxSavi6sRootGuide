@@ -1,6 +1,6 @@
 # Boox Savi 6s Root Guide
-INITIAL DISCLAIMER: screwing this up could brick your device, do not attempt unless you thoroughly understand what is happening and why, please read all instructions top to bottom first so you know what to expect, always back up any and all of your important data before trying this
-LƯU Ý BAN ĐẦU: Làm sai thao tác này có thể làm hỏng thiết bị của bạn, đừng thử nếu bạn không hiểu rõ điều gì đang xảy ra và tại sao, vui lòng đọc kỹ tất cả hướng dẫn từ đầu đến cuối trước để biết bạn cần chuẩn bị những gì, luôn sao lưu tất cả dữ liệu quan trọng của bạn trước khi thử thao tác này.
+INITIAL DISCLAIMER: screwing this up could brick your device, do not attempt unless you thoroughly understand what is happening and why, please read all instructions top to bottom first so you know what to expect, always back up any and all of your important data before trying this\
+LƯU Ý BAN ĐẦU: Làm sai thao tác này có thể làm hỏng thiết bị của bạn, đừng thử nếu bạn không hiểu rõ điều gì đang xảy ra và tại sao, vui lòng đọc kỹ tất cả hướng dẫn từ đầu đến cuối trước để biết bạn cần chuẩn bị những gì, luôn sao lưu tất cả dữ liệu quan trọng của bạn trước khi thử thao tác này.\
 THANKS: Cảm ơn Oxgoru từ MobileRead.com vì đã cho biết việc root model này khả thi và jdkruzr người đã tạo bài [BooxPalma2RootGuide](https://github.com/jdkruzr/BooxPalma2RootGuide).
 # Chuẩn bị
 Cách này cho win nên sẽ cần
