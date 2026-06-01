@@ -7,9 +7,9 @@ Cách này cho win nên sẽ cần
 -  ["EDL" utility](https://www.temblast.com/edl.htm)
 -  file [loader](https://www.temblast.com/download/poke6.bin) cho edl sử dụng
 -  [Zadig](https://zadig.akeo.ie/) để tải driver cho edl.
--  [platform-tools](https://developer.android.com/tools/releases/platform-tools#downloads) để sử dụng lệnh adb.\
+-  [platform-tools](https://developer.android.com/tools/releases/platform-tools#downloads) để sử dụng lệnh adb.
 
-\Sau khi tải đầy đủ về, ta giải nén platform-tools. Mở powershell chạy để xem thiết bị đã nhận chưa, nhớ bật gỡ lỗi usb trên máy. Nếu chạy thành công thì sẽ hiện như này
+Sau khi tải đầy đủ về, ta giải nén platform-tools. Mở powershell chạy để xem thiết bị đã nhận chưa, nhớ bật gỡ lỗi usb trên máy. Nếu chạy thành công thì sẽ hiện như này
 ```
 PS C:\Users\Minh Chau\Downloads\platform-tools-latest-windows> ./adb devices
 List of devices attached
